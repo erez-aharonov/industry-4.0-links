@@ -17,6 +17,10 @@
 * https://qsee.io/<br>
 * https://www.kitov.ai/<br>
 
+## Groups
+* https://www.israelindustry40.com/<br>
+* 
+
 ## Trade shows
 * https://www.automateshow.com/ - Bi-annual robotics, machine vision and industrial automation show held in Detroit, Michigan<br>
 * https://www.hannovermesse.de/en/ - Annual manufacturing technology show held in Hanover, Germany that is intended to demonstrate the latest industry trends in manufacturing and energy distribution. A core focus of this show is "digitalization" of traditional industry.<br>

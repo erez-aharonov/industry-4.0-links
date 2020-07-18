@@ -4,4 +4,4 @@
 () [https://siemens.mindsphere.io/en] (github) [https://github.com/mindsphere]
 
 ## closed source software
-(outotec-act) [https://www.outotec.com/products-and-services/technologies/analyzers-and-automation/act-advanced-process-control/]
+[outotec-act (https://www.outotec.com/products-and-services/technologies/analyzers-and-automation/act-advanced-process-control/)

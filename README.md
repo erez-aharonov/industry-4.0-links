@@ -7,6 +7,9 @@
 * [Outotec ACT](https://www.outotec.com/products-and-services/technologies/analyzers-and-automation/act-advanced-process-control/) <br>
 * [General Electric PREDIX](https://www.predix.io/)
 
+## IoT platforms
+* https://azure.microsoft.com/en-us/services/iot-hub/<br>
+
 ## Protocols
 * https://opcfoundation.org/<br>
 * http://mqtt.org/<br>

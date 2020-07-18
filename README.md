@@ -9,6 +9,7 @@
 
 ## Protocols
 * https://opcfoundation.org/<br>
+* http://mqtt.org/<br>
 
 ## Companies
 * [Siemens](https://new.siemens.com/global/en/products/automation.html)<br>

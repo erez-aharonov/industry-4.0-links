@@ -1,13 +1,22 @@
 # Industry 4.0 links
 
-## open source software
+## Open source software
 * [Siemens MindSphere](https://siemens.mindsphere.io/en) | [github](https://github.com/mindsphere)
 
-## closed source software
+## Closed source software
 * [Outotec ACT](https://www.outotec.com/products-and-services/technologies/analyzers-and-automation/act-advanced-process-control/) <br>
 * [General Electric PREDIX](https://www.predix.io/)
 
-## trade shows
+## Companies
+https://new.siemens.com/global/en/products/automation.html<br>
+https://www.bosch.com/products-and-services/connected-products-and-services/industry-4-0/<br>
+https://www.frontline-pcb.com/<br>
+https://www.seebo.com/<br>
+https://www.contel.com/<br>
+https://qsee.io/<br>
+
+
+## Trade shows
 * https://www.automateshow.com/ - Bi-annual robotics, machine vision and industrial automation show held in Detroit, Michigan<br>
 * https://www.hannovermesse.de/en/ - Annual manufacturing technology show held in Hanover, Germany that is intended to demonstrate the latest industry trends in manufacturing and energy distribution. A core focus of this show is "digitalization" of traditional industry.<br>
 * https://www.imts.com/ - Bi-annual manufacturing technology show in North America which typically includes several talks, exhibits and vendors that feature Industry 4.0 and Digital Manufacturing. This show is held in Chicago, Illinois

@@ -7,6 +7,9 @@
 * [Outotec ACT](https://www.outotec.com/products-and-services/technologies/analyzers-and-automation/act-advanced-process-control/) <br>
 * [General Electric PREDIX](https://www.predix.io/)
 
+## Protocols
+* https://opcfoundation.org/<br>
+
 ## Companies
 * [Siemens](https://new.siemens.com/global/en/products/automation.html)<br>
 * [Bosch](https://www.bosch.com/products-and-services/connected-products-and-services/industry-4-0/)<br>

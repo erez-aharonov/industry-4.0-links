@@ -19,7 +19,6 @@
 
 ## Groups
 * https://www.israelindustry40.com/<br>
-* 
 
 ## Trade shows
 * https://www.automateshow.com/ - Bi-annual robotics, machine vision and industrial automation show held in Detroit, Michigan<br>

@@ -5,3 +5,4 @@
 
 ## closed source software
 [Outotec ACT](https://www.outotec.com/products-and-services/technologies/analyzers-and-automation/act-advanced-process-control/)
+[General Electric PREDIX](https://www.predix.io/)

@@ -8,8 +8,8 @@
 * [General Electric PREDIX](https://www.predix.io/)
 
 ## Companies
-(Siemens)[https://new.siemens.com/global/en/products/automation.html]<br>
-(Bosch)[https://www.bosch.com/products-and-services/connected-products-and-services/industry-4-0/]<br>
+[Siemens](https://new.siemens.com/global/en/products/automation.html)<br>
+[Bosch](https://www.bosch.com/products-and-services/connected-products-and-services/industry-4-0/)<br>
 https://www.frontline-pcb.com/<br>
 https://www.seebo.com/<br>
 https://www.contel.com/<br>

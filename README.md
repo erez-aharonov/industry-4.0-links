@@ -14,7 +14,7 @@ https://www.frontline-pcb.com/<br>
 https://www.seebo.com/<br>
 https://www.contel.com/<br>
 https://qsee.io/<br>
-
+https://www.kitov.ai/<br>
 
 ## Trade shows
 * https://www.automateshow.com/ - Bi-annual robotics, machine vision and industrial automation show held in Detroit, Michigan<br>

@@ -20,3 +20,7 @@ https://www.kitov.ai/<br>
 * https://www.automateshow.com/ - Bi-annual robotics, machine vision and industrial automation show held in Detroit, Michigan<br>
 * https://www.hannovermesse.de/en/ - Annual manufacturing technology show held in Hanover, Germany that is intended to demonstrate the latest industry trends in manufacturing and energy distribution. A core focus of this show is "digitalization" of traditional industry.<br>
 * https://www.imts.com/ - Bi-annual manufacturing technology show in North America which typically includes several talks, exhibits and vendors that feature Industry 4.0 and Digital Manufacturing. This show is held in Chicago, Illinois
+
+## Articles
+https://nocamels.com/2020/02/global-industry-leaders-israel-smart-factory-solutions/<br>
+https://nocamels.com/2020/07/israel-seebo-9m-ai-platform-industry-4/<br>

@@ -15,6 +15,8 @@
 * [Siemens](https://new.siemens.com/global/en/products/automation.html)<br>
 * [Bosch](https://www.bosch.com/products-and-services/connected-products-and-services/industry-4-0/)<br>
 * [KLA](https://www.kla-tencor.com/solutions/ai)
+* [honeywell](https://www.honeywell.com/en-us/industries/industrial-manufacturing)<br>
+* [SAP](https://www.sap.com/israel/products/digital-supply-chain/industry-4-0.html)<br>
 * https://www.frontline-pcb.com/<br>
 * https://www.seebo.com/<br>
 * https://www.contel.com/<br>

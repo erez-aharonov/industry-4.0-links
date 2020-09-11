@@ -21,6 +21,7 @@
 * [honeywell](https://www.honeywell.com/en-us/industries/industrial-manufacturing)<br>
 * [SAP](https://www.sap.com/israel/products/digital-supply-chain/industry-4-0.html)<br>
 * [Intel](https://www.intel.com/content/www/us/en/internet-of-things/industrial-iot/overview.html)<br>
+* [Ericsson](https://www.ericsson.com/en/ai-and-automation)<br>
 * https://www.frontline-pcb.com/<br>
 * https://www.seebo.com/<br>
 * https://www.contel.com/<br>

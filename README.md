@@ -1,5 +1,9 @@
 # Industry 4.0 links
 
+## News
+* https://www.bloomberg.com/news/articles/2020-09-16/alibaba-s-newest-business-modernizing-china-s-factories?<br>
+* https://www.alizila.com/video/alibabas-xunxi-technology-brings-new-manufacturing-model-to-factories/<br>
+
 ## Open source software
 * [Siemens MindSphere](https://siemens.mindsphere.io/en) | [github](https://github.com/mindsphere)
 

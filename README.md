@@ -11,6 +11,9 @@
 * [Outotec ACT](https://www.outotec.com/products-and-services/technologies/analyzers-and-automation/act-advanced-process-control/) <br>
 * [General Electric PREDIX](https://www.predix.io/)
 
+## Datasets
+* https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/<br>
+
 ## IoT platforms
 * https://azure.microsoft.com/en-us/services/iot-hub/<br>
 
@@ -47,3 +50,4 @@
 ## Articles
 * https://nocamels.com/2020/02/global-industry-leaders-israel-smart-factory-solutions/<br>
 * https://nocamels.com/2020/07/israel-seebo-9m-ai-platform-industry-4/<br>
+* https://towardsdatascience.com/open-data-sources-for-industrial-ai-b58cef3ffd0d<br>

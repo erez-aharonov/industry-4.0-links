@@ -37,6 +37,7 @@
 * https://qsee.io/<br>
 * https://www.kitov.ai/<br>
 * https://www.smartech.com/<br>
+* https://matics.live/<br>
 
 ## Groups
 * https://www.israelindustry40.com/<br>

@@ -57,3 +57,4 @@
 * https://nocamels.com/2020/07/israel-seebo-9m-ai-platform-industry-4/<br>
 * https://towardsdatascience.com/open-data-sources-for-industrial-ai-b58cef3ffd0d<br>
 * https://www.offshore-energy.biz/uk-oga-launches-130-terabytes-of-offshore-data-in-push-to-unlock-20-billion-barrels-of-oil-gas/<br>
+* https://ii4community.org/news/304558<br>

@@ -12,6 +12,7 @@
 ## Closed source software
 * [Outotec ACT](https://www.outotec.com/products-and-services/technologies/analyzers-and-automation/act-advanced-process-control/) <br>
 * [General Electric PREDIX](https://www.predix.io/)
+* [Bosch Nexeed](https://www.bosch.com/stories/nexeed-production-performance-manager/)
 
 ## Datasets
 * https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/<br>

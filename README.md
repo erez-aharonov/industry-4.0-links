@@ -1,7 +1,7 @@
 # Industry 4.0 links
 
 ## News
-* https://www.bloomberg.com/news/articles/2020-09-16/alibaba-s-newest-business-modernizing-china-s-factories?<br>
+* https://www.bloomberg.com/news/articles/2020-09-16/alibaba-s-newest-business-modernizing-china-s-factories<br>
 * https://www.alizila.com/video/alibabas-xunxi-technology-brings-new-manufacturing-model-to-factories/<br>
 * https://techcrunch.com/2020/10/14/augury-taps-55m-for-tech-that-predicts-machine-faults-from-vibration-sound-and-temperature/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cubGlua2VkaW4uY29tLw&guce_referrer_sig=AQAAALEkuVg5KS-nrPWmuhnbefcUbOyuNwVmAKYHxdE8IpFCoBahQc8enCX6xFw8_sctvyOHaY9iPUQvw_2DTbPiBiH3dNI87H-8F24mLRxB0trxvx7qkYmb6azFynCSSV63fk3A7r0QiwHHbtxt7fbtC3TKZaHMtAedM_WarLb_Q2FC<br>
 * https://www.businessinsider.com/amazon-working-on-aws-thor-a-new-industrial-monitoring-service-2020-9<br>

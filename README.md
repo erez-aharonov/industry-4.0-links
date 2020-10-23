@@ -5,6 +5,7 @@
 * https://www.alizila.com/video/alibabas-xunxi-technology-brings-new-manufacturing-model-to-factories/<br>
 * https://techcrunch.com/2020/10/14/augury-taps-55m-for-tech-that-predicts-machine-faults-from-vibration-sound-and-temperature/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cubGlua2VkaW4uY29tLw&guce_referrer_sig=AQAAALEkuVg5KS-nrPWmuhnbefcUbOyuNwVmAKYHxdE8IpFCoBahQc8enCX6xFw8_sctvyOHaY9iPUQvw_2DTbPiBiH3dNI87H-8F24mLRxB0trxvx7qkYmb6azFynCSSV63fk3A7r0QiwHHbtxt7fbtC3TKZaHMtAedM_WarLb_Q2FC<br>
 * https://www.businessinsider.com/amazon-working-on-aws-thor-a-new-industrial-monitoring-service-2020-9<br>
+* https://www.usmsystems.com/industry-4-0-companies-that-use-ai-to-augment-manufacturing-processes/<br>
 
 ## Open source software
 * [Siemens MindSphere](https://siemens.mindsphere.io/en) | [github](https://github.com/mindsphere)
@@ -41,6 +42,15 @@
 * https://www.kitov.ai/<br>
 * https://www.smartech.com/<br>
 * https://matics.live/<br>
+* https://www.uptake.com/<br>
+* https://www.veobot.com/<br>
+* https://www.mythic-ai.com/<br>
+* https://sightmachine.com/<br>
+* https://www.invisible.ai/<br>
+* https://www.sparkbeyond.com/<br>
+* https://www.oqton.com/<br>
+* https://www.ferolabs.com/<br>
+* https://landing.ai/<br>
 
 ## Groups
 * https://www.israelindustry40.com/<br>

@@ -51,6 +51,7 @@
 * https://www.oqton.com/<br>
 * https://www.ferolabs.com/<br>
 * https://landing.ai/<br>
+* https://www.augury.com/<br>
 
 ## Groups
 * https://www.israelindustry40.com/<br>

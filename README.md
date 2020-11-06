@@ -8,12 +8,13 @@
 * https://www.usmsystems.com/industry-4-0-companies-that-use-ai-to-augment-manufacturing-processes/<br>
 
 ## Open source software
-* [Siemens MindSphere](https://siemens.mindsphere.io/en) | [github](https://github.com/mindsphere)
+* https://thingsboard.io/ | https://github.com/thingsboard/thingsboard<br>
 
 ## Closed source software
 * [Outotec ACT](https://www.outotec.com/products-and-services/technologies/analyzers-and-automation/act-advanced-process-control/) <br>
 * [General Electric PREDIX](https://www.predix.io/)
 * [Bosch Nexeed](https://www.bosch.com/stories/nexeed-production-performance-manager/)
+* [Siemens MindSphere](https://siemens.mindsphere.io/en) | [github](https://github.com/mindsphere)
 
 ## Datasets
 * https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/<br>

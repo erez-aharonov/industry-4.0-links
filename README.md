@@ -54,6 +54,7 @@
 * https://landing.ai/<br>
 * https://www.augury.com/<br>
 * https://industrial-ai.skf.com/<br>
+* https://www.ptc.com/en/solutions/digital-manufacturing/industry-4-0<br>
 
 ## Groups
 * https://www.israelindustry40.com/<br>
